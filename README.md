@@ -25,6 +25,12 @@ This Power BI project analyzes sales data from Amazon, focusing on factors such 
      - Total sales by discounted price
      - Average rating of top 3 products
 
+3. **Additional Calculated Measures:**
+   - Computed additional measures:
+     - Total Review Count
+     - Total Sales Based on Actual Price
+     - Total Sales Based on Discounted Price
+
 # Analysis Tasks
 The project focused on addressing specific analysis tasks:
 1. **Pricing Trends by Product Categories:**
