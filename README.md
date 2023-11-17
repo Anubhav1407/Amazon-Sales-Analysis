@@ -49,6 +49,9 @@ The project utilized Power BI's visualization capabilities to present insights:
 
 # Dashboard Screenshots
 
+![Screenshot 2023-11-17 152905](https://github.com/Anubhav1407/Amazon-Sales-Analysis/assets/128254341/4d29f388-c48b-4fd7-9046-d6a04f5aea8d)
+
+
 
 
 
