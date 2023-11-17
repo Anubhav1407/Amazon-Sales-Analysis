@@ -55,6 +55,8 @@ The project utilized Power BI's visualization capabilities to present insights:
 
 
 
+
+
 # Conclusion
 This project aimed to extract actionable insights from Amazon sales data to aid decision-making processes related to pricing strategies, product availability, and customer satisfaction.
 
